@@ -8,8 +8,8 @@ import org.xhtmlrenderer.pdf.ITextRenderer;
 import java.io.*;
 import java.nio.file.FileSystems;
 
-import static com.itextpdf.text.pdf.BaseFont.EMBEDDED;
-import static com.itextpdf.text.pdf.BaseFont.IDENTITY_H;
+import static com.lowagie.text.pdf.BaseFont.EMBEDDED;
+import static com.lowagie.text.pdf.BaseFont.IDENTITY_H;
 import static org.thymeleaf.templatemode.TemplateMode.HTML;
 
 /**
